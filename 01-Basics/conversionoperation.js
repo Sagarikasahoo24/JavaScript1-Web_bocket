@@ -18,3 +18,6 @@ console.log(booleanIsLoggedIn);
 1      =>true
 0      =>false
 */
+
+let num=10;
+let result=(num>=0?console.log("positive"):console.log("negative"));
