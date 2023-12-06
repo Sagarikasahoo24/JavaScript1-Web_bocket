@@ -13,9 +13,8 @@
 const accountID=334;
 let accountEmail="sagarika@gmail.com"
 var accountPassword="12345"
-accountCity="Bhubaneswar"
+let accountCity="Bhubaneswar"
 let accountState;
-const accountID=334;
 console.log(accountID);
 console.log(accountEmail);
 console.log(accountPassword);
