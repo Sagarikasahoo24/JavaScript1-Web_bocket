@@ -1,28 +1,28 @@
 /*
     * Object are super important for grouping the data and functionalities .so we can do a lot of things in object of js.
-    * object are constructed in key and value pain.
-    * 
+    * Object are constructed in key and value pain.
     * let myCross={name of the object
                     BMW: "series 7"
                     audi: "Q7"
             }
 */
-// const jsUser={
-//             name:"sagarika",
-//             email:"sagarika@1234",
-//             age:"24",
-//             "full name": "sagarika sahoo",
-//             location:"odisha",
-//             isLoggedIn:"False",
-//             lastLoggedinDays:["Mondsay","wednesday","Friday"]
-//             }
-            // console.log(jsUser.name);
-            // console.log(jsUser["email"]);
-            // console.log(jsUser["full name"]);
+const jsUser={
+            name:"sagarika",
+            email:"sagarika@1234",
+            age:"24",
+            "full name": "sagarika sahoo",
+            location:"odisha",
+            isLoggedIn:"False",
+            lastLoggedinDays:["Mondsay","wednesday","Friday"]
+            }
+        //     console.log(jsUser.name);
+        //     console.log(jsUser.email);
+        //     console.log(jsUser["full name"]);
 
-            // // jsUser.email="webbocket@gmail.com";
-            // // jsUser.email="gift@gmail.com";
-            // // console.log(jsUser.email);
+            jsUser.email="webbocket@gmail.com";
+            jsUser.email="gift@gmail.com";
+            jsUser.email="rsli@gmail.com";
+            console.log(jsUser.email);
 
             // jsUser.email="webbocket@gmail.com";
             // Object.freeze(jsUser);
