@@ -14,13 +14,11 @@ definition:=A javaScript function is a block of code designed to perform a parti
 //sayname= reference
 //():=Execution.
 
-
 // function addTwoNumber(Num1,Num2){   //parameter
 //     console.log(Num1 + Num2)
 // }
 // addTwoNumber(8,6);   //here 8 and 6 are called arguments
 // addTwoNumber(8,"a");
-
 
 // function addTwoNumber(number1, number2){
 //     let result= number1 + number2;
@@ -34,7 +32,6 @@ definition:=A javaScript function is a block of code designed to perform a parti
 //     return `${username} just logged in`
 // }
 // console.log(loginUserMessage());
-
 
 // function loginUserMessage(username= rally){
 //         if(!username)
@@ -62,6 +59,7 @@ definition:=A javaScript function is a block of code designed to perform a parti
     //     return val1,val2, val3;
     //  }
     //  console.log(calculatePrice(200,300,400,500))
+    
 // const user ={
 //     username : "gift",
 //     price : 400

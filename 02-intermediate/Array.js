@@ -13,7 +13,7 @@
 // console.log(Myarr);
 
 // Array method
-const myArray = [1,2,3,4,5,6,7]
+// const myArray = [1,2,3,4,5,6,7]
 // console.log(myArray)
 
 // myArray.push(2)
@@ -27,13 +27,11 @@ const myArray = [1,2,3,4,5,6,7]
 
 // myArray.shift();
 // console.log(myArray); //[0,1,2,3,4,5]
+// push():= method adds new items to the end of an array
+// pop():= removes the last element of an array.
+// unshift:= Add a new element in 1st index
+// shift:= remove a element from 1st index
 
-/*
-push():= method adds new items to the end of an array
-pop():= removes the last element of an array.
-unshift:= Add a new element in 1st index
-shift:= remove a element from 1st index
-*/
 // console.log(myArray.includes(5));
 // console.log(myArray.indexOf(7));
 // console.log(myArray.indexOf(19));
@@ -68,15 +66,11 @@ shift:= remove a element from 1st index
 // const anotherArray=[1,2,3,[4,5,6],7,[6,7,[4,5]]]
 // const realAnotherArray=anotherArray.flat(Infinity);
 // console.log(realAnotherArray);
+// const anotherArray=[1,2,3,[4,5,6],7,[6,7,[4,5[6,3[9,10]]]]]
+// const realAnotherArray=anotherArray.flat(Infinity);
+// console.log(realAnotherArray);
+// console.log(Array.isArray("Shubhashree"));
+// console.log(Array.from("Shubhashree")); 
 
-
-const anotherArray=[1,2,3,[4,5,6],7,[6,7,[4,5[6,3[9,10]]]]]
-const realAnotherArray=anotherArray.flat(Infinity);
-console.log(realAnotherArray);
-
-console.log(Array.isArray("Shubhashree"));
-console.log(Array.from("Shubhashree"));
-/*  
-    *isArray:- is a method to check whether it is a array or not.
-    *from:- is a method in which we create that automatically creates a array.
-*/
+    // *isArray:- is a method to check whether it is a array or not.
+    // *from:- is a method in which we create that automatically creates a array.

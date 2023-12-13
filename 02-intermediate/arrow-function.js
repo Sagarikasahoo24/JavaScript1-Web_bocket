@@ -2,17 +2,13 @@
     Arrow function:- 
     **In ES6 major update had done.It changes the old syntax of function declaration and tried to reduce the length of a code.
    
-    **I n arrow function we need a variabkle to declaire it and majorly used => this operator to define arrow function.
-    
+    **I n arrow function we need a variabkle to declaire it and majorly used => this operator to define arrow function.    
 */  
 //  Old syntax of a function
-
     // function addTwoNumbers(num1, num2){ 
     //     return num1+num2;
     // }
     // console.log(addTwoNumbers(6,7));
-
-
  //Arrow Function
 
     // const user={
@@ -24,11 +20,9 @@
     //     }
     // }
 // console.log(user);
-
 // user.welcomeMessage();
 // user.userName="saga";
 // user.welcomeMessage();
-
 
 // const person={
 //     name : "Rally",
