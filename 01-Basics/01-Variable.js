@@ -15,8 +15,8 @@ let accountEmail="sagarika@gmail.com"
 var accountPassword="12345"
 let accountCity="Bhubaneswar"
 let accountState;
-console.log(accountID);
-console.log(accountEmail);
-console.log(accountPassword);
-console.log(accountCity);
-console.table([accountID,accountEmail,accountPassword])
+// console.log(accountID);
+// console.log(accountEmail);
+// console.log(accountPassword);
+// console.log(accountCity);
+console.log([accountID,accountEmail,accountPassword])

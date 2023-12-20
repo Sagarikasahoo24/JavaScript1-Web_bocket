@@ -11,18 +11,18 @@ DATATYPES:-
     vii.symbol   UNIQUNESS
 
 */
-// let name ="sagarika";
-// let age=23;
-// let isPresent=true;
+let name ="sagarika";
+let age=23;
+let isPresent=true;
 
-// let num=7885463788477758969679n;
-// let id;
+let num=7885463788477758969679n;
+let id;
 
-// console.log(typeof name);
-// console.log(typeof age);
-// console.log(typeof isPresent);
-// console.log(typeof num);
-// console.log(typeof id);
+console.log(typeof name);
+console.log(typeof age);
+console.log(typeof isPresent);
+console.log(typeof num);
+console.log(typeof id);
 
 let idname=Symbol('123');
 let anotherid=Symbol('123');
